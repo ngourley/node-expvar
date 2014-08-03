@@ -1,0 +1,19 @@
+{
+  "name": "expvar",
+  "version": "0.1.0",
+  "description": "Express middleware that exposes public variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expvar",
+    "express",
+    "middleware"
+  ],
+  "author": "Nathan Gourley <ngourley@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unflatten": "0.0.2"
+  }
+}
